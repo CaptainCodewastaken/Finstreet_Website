@@ -1,9 +1,8 @@
 module.exports = {
-    theme: {
-      extend: {
-        scrollBehavior: ['smooth'],
-      },
+  theme: {
+    extend: {
+      scrollBehavior: ['smooth'],
     },
-    plugins: [],
-  };
-  
+  },
+  plugins: [],
+};
